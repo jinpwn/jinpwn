@@ -1,38 +1,16 @@
-<picture>
-  <img src="./banner.svg" alt="Profile Banner" width="100%">
-</picture>
+### whoami
 
-\## Summary<br>
-Offensive security practitioner focused on web application security, reverse engineering, and exploitation.<br>
-Active CTF participant.
+I love to pentest web and AD :)
+When the tool I need doesn't exist, I write it and leave it lying around here.
 
+### lately
 
-\## Top Interests<br>
-\- Web application security<br>
-\- Reverse engineering<br>
-\- Binary exploitation<br>
-\- Network pentesting<br>
-\- Offensive tooling<br>
-\- CTF
+Chasing CTFs. Mapping domains. Sharpening the tooling.
 
+### elsewhere
 
-\## Skills<br>
-\- Penetration testing<br>
-\- Automation scripting<br>
-\- Active Directory exploitations
+[`jinpwn.dev`](https://jinpwn.dev) &nbsp;·&nbsp; [`hack the box`](https://app.hackthebox.com/public/users/1244905) &nbsp;·&nbsp; [`linkedin`](https://www.linkedin.com/in/gderu)
 
-
-\## Languages<br>
-\- Python<br>
-\- Go<br>
-\- Java
-
-\## Socials<br>
-GitHub: https://github.com/zeroXblivion<br>
-Hack The Box: https://app.hackthebox.com/public/users/1244905<br>
-Blog: https://0xblivion.dev <br>
-LinkedIn: https://www.linkedin.com/in/gderu
-
-<cat>
-  <img src="./cat.svg" alt="Running cat" width="100%">
-</cat>
+<p align="center">
+  <img src="./cat.svg" alt="a cat chasing a packet" width="100%">
+</p>
